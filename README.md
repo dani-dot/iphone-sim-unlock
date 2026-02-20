@@ -8,7 +8,7 @@
 
 3. To my knowledge there is no software or website for unlocking that works or its real , 99% of them are scams
 4. The only unofficial way to sim unlock your iphone is through hardware unlocking (simunlock chips/cards) like Heicard, Rsim or others, in this guide im going to talk about rsim because its the only one i have used
-5. Heicard, Rsim or other such cards only work for physical sim devices (physical sim + esim or dual physical sim), i have seen some esim unlock products but i havent tested them
+5. Heicard, Rsim or other such cards only work for physical sim devices (physical sim + esim or dual physical sim) and you can only use the physical sim. I have seen some esim unlock products but i havent tested them
 # R-SIM
 ### What is R-SIM?
 R-SIM is a card/chip that wraps around (or sits on top) your sim card that desire to use with your iphone to unlock it
