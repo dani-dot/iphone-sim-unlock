@@ -11,10 +11,7 @@
 5. Heicard, Rsim or other such cards only work for physical sim devices (physical sim + esim or dual physical sim) and you can only use the physical sim. I have seen some esim unlock products but i havent tested them
 # R-SIM
 
-<p align="left">
-    <img src="assests/images/rsimclub2.png" alt="Description" width="300" />
-    <img src="assests/images/rsimmini3.png" alt="Description" width="300" />
-</p>
+c
 
 ### What is R-SIM?
 R-SIM is a thin card/chip that wraps around (or sits on top) your sim card to unlock it, some newer versions have glue on them to stick to your sim card
@@ -32,7 +29,14 @@ You could get a perfect device or u might encounter some problems , depending on
 You will find a bunch of sellers on ebay , alliexpress or even amazon. Ofc  there are other websites aswell just search for them
 
 # Unlocking with R-SIM
-First steps to unlocking are : 1. Finding your iPhone carrier and carrier code 2. Finding the best unlock method for you
-## Finding your iPhone carrier:
-   1. There are a lot of websites
-   2. 
+First steps to unlocking are :
+1. Finding your iPhone carrier and carrier code
+2. Finding the best unlock method for you
+## Finding your iPhone carrier and code:
+   1. There are a lot of websites that offer iphone carrier check services, just search on google for "iphone carrier check" and find one that suits you. I personaly used https://sickw.com because its free, after entering your imei/serial no. you gonno get a result something like this:
+   <p align="left">
+    <img src="assests/images/rsimclub2.png" alt="Description" width="300" />
+</p>
+   2. ok
+   3. do
+   
