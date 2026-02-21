@@ -34,6 +34,7 @@ You will find a bunch of sellers on ebay , alliexpress or even amazon. Ofc  ther
 ## First steps with R-SIM
 1. Finding your iPhone carrier
 2. Finding your carrier code
+3. Checking baseband (Qualcomm Or Intel)
 ### Finding your iPhone carrier:
 There are a lot of websites that offer iphone carrier check services, just search on google for "iphone carrier check" and find one that suits you. I personaly used https://sickw.com because its free, after entering your imei/serial no. you gonno get a result something like this:
    <p align="left">
@@ -48,16 +49,20 @@ Make sure you take note of "Purchase Country" "Locked Carrier", for me it was Au
    4. At your Carrier you gonno see all the carrier codes (for example : "5050134" ; "2343000  GID1:C3" ; "2040438 GID2 A7" ) , be sure to take note of all of them ( you might have multiple codes ) 
    5. ***INFORMATION*** not all carrier codes have a GID1 or GID2 but it yours has one be sure to take note of it
 
-## Second step with R-SIM
-   1. Checking baseband (Qualcomm Or Intel)
-   2. Unlock methods
-
-### Checking baseband (Qualcomm Or Intel)
+### Checking baseband (Qualcomm Or Intel):
    1. Intel baseband:（XR/Xs/XsMax/SE2/11/11Pro/11ProMax ）
    2. Qualcomm baseband:（SE3/12/12Mini/12Pro/12ProMax/13/13Mini/13Pro/13ProMax/14/14Pro/14ProMax and newer ）
    3. Others (7/7Plus/8/8Plus/X ) check here:
       - Call *#06# or check Settings-General-About
       - its Qualcomm baseband if have a MEID number , Intel baseband if cannot see a MEID number
+    
+
+## Second step with R-SIM
+   1. oki
+   2. Unlock methods
+
+### oki
+
 
 ### Unlock methods
 
