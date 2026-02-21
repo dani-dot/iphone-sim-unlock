@@ -58,11 +58,32 @@ Make sure you take note of "Purchase Country" "Locked Carrier", for me it was Au
     
 
 ## Second step with R-SIM
-   1. oki
-   2. Unlock methods
+   1. How to put r-sim in the sim slot 
+   2. Menu pop up
+   3. Unlock methods
 
-### oki
+### How to put r-sim in the sim slot
+If you have r-sim with adhesive (double sided tape) its easy, just take tape cover off and glue it to your sim card like in the [video](https://youtu.be/OO6vBY41mos?si=UrpKqLmwq_muHVJS&t=48), and put it in your sim card like normaly
+   <p align="left">
+    <img src="assests/images/rsimvsop2adhesive.png" alt="Description" width="400" />
+</p>
 
+If you have r-sim without adhesive, check sim orientation, if the sim golden pads are up you will need to fold the r-sim around your sim card [video here](https://youtu.be/Mt2_vMGSWAU?si=qAHHE6JDJFfF9toH&t=545). If the sim golden pads are down you need to cut the r-sim in  two, put the chip side in the sim lot and over it your sim [video here](https://youtu.be/Mt2_vMGSWAU?si=vqRbYcPAVdWdn0z6&t=125) (just follow the how to mount your r-sim instructions, the iccid stuff most likly wont work)
+
+<p>
+  <img src="assests/images/fold1.png" width="400" />
+  <img src="assests/images/fold2.png" width="400" />
+</p>
+
+### Menu pop up
+
+ When you plug in your sim card with r-sim ,the r-sim menu should pop up, here you can choose your **Unlock method**. If the menu doesnt pop up:
+ 1. Go to settings > Cellular > SIM Application > usally first button (something like Set sim , Unlock , Menu) after this you can follow **Unlock method**
+ 2. If you cannot go to SIM Application or Cellular, go to Phone (or press Emergency Call )and call the following numbers till the menu pops up:
+    - ** or ##
+    - "* 505 * 7672 * 00 #"
+    - 
+ 3. **Advice** always go slowly when trying to pop the r-sim menu or doing any settings related to r-sim , this is a small chip , its not super fast so sometimes you goto wait
 
 ### Unlock methods
 
@@ -73,7 +94,7 @@ Make sure you take note of "Purchase Country" "Locked Carrier", for me it was Au
     - You need the newest version of R-SIM like R-Sim MINI 3, R-SIM VSOP2 , R-SIM 19 Pro
 2. **eSim(QPE) Mode**：
      - Works with iPhone 12-16 (physical sim + esim) (Qualcomm baseband)
-     - You need R-SIM CLUB2 or newer (like R-Sim MINI 3, R-SIM VSOP2 , R-SIM 19 Pro ) and to buy a R-SIM Ecode (its around 10 euro)
+     - You need R-SIM CLUB2 or newer (like R-Sim MINI 3, R-SIM VSOP2 ) and to buy a R-SIM Ecode (its around 10 euro)
      - Instruction [video here](https://www.youtube.com/watch?v=Rd3qJ0Q6etE) and [written here](https://www.rsim5.com/instructionview.php?id=86)
      - Requiers loading ipcc [video here](https://www.youtube.com/watch?v=n_sk35tVXDQ) , ipcc loading doesnt work on my iPhone 13 ios 26.3 and as a result i cant send sms mesages (it might work for you tho)
      - Advantage: Very stable unlock from my experience , never lost signal and rarely got the activating iphone message, only after restart for a few seconds which is ok
