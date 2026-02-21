@@ -1,7 +1,7 @@
 # First thing first
 1. This guide is only for iPhone's
 2. The best way and official way to unlocking your iphone sim is to ask to your iphone carrier to unlock it:
-   -  find the carrier your iphone is locked to, if you dont know the carrier go to scroll lower to Find Carrier chapter for instructions
+   -  find the carrier your iphone is locked to, if you dont know the carrier go to [Finding your iPhone carrier](https://github.com/dani-dot/iphone-sim-unlock/tree/main?tab=readme-ov-file#finding-your-iphone-carrier) chapter for instructions
    -  search them up on google to find their info, call them, email them, or go to a local store, and explain your situation and that you want to unlock it
    -  pray they do
    -  if they ask for too much money or they refuse to unlock it , this guide is for you
