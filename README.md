@@ -11,7 +11,7 @@
 5. Heicard, Rsim or other such cards only work for physical sim devices (physical sim + esim or dual physical sim) and you can only use the physical sim. I have seen some esim unlock products but i havent tested them
 # R-SIM
 ### What is R-SIM?
-R-SIM is a card/chip that wraps around (or sits on top) your sim card that desire to use with your iphone to unlock it
+R-SIM is a thin card/chip that wraps around (or sits on top) your sim card that desire to use with your iphone to unlock it
 ### How does it work?
 From my understanding it uses differt exploits to trick your phone, for example : if your iphone is sim locked in AT&T (can only use AT&T sim cards) and you have a T-Mobile sim card, r-sim tricks your phone into thinking that your T-Mobile sim card is an AT&T one
 ### How expensive?
