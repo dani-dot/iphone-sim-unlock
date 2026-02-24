@@ -80,7 +80,8 @@ If you have r-sim without adhesive, check sim orientation, if the sim golden pad
  When you plug in your sim card with r-sim ,the r-sim menu should pop up, here you can choose your **Unlock method**. If the menu doesnt pop up:
  1. Go to settings > Cellular > SIM Application > usally first button (something like Set sim , Unlock , Menu) after this you can follow **Unlock method**
  2. If you cannot go to SIM Application or Cellular, go to Phone (or press Emergency Call )and call the following numbers till the menu pops up:
-    - "**" or "##"
+    - "*" or "**"
+    - "#" or "##"
     - "* 505 * 7672 * 00 #"
     - "* 5005 * 7672 * 0 #"
     - "* 5005 * 7672 * 003"
