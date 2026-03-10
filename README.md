@@ -90,30 +90,32 @@ If you have r-sim without adhesive, check sim orientation, if the sim golden pad
 ### Unlock methods
 
 1. **SED/MEP Mode** :
-    - Only works on ***dual physical*** sim iPhone 13 to 16 (Qualcomm baseband), this is the chinese version iPhone (they dont allow esim iphone s to be sold there) [video here how it works](https://www.youtube.com/shorts/5hwT5uGHqmc), quite simple
-    - If you have golbal version iphone (physical sim + esim) it requiers to convert from physical sim + esim to dual physical sim by changing the sim slot with a china version sim slot and it works (this requires buying and dual sim sim slot and opening the phone so its not for everyone) [video here](https://www.youtube.com/watch?v=JXBMpGrUZL8), some iphone models do require board level soldering like in [this video](https://www.youtube.com/watch?v=PIwnEh592zY&t=166s)
-    - From what i read , the big + on this method is that it works the best out of all of them soo far and doesnt need loading ipcc, i havent tested it yet tho (i will test in the future)
-    - You need the newest version of R-SIM like R-Sim MINI 3, R-SIM VSOP2 , R-SIM 19 Pro
+    - Only works on ***dual physical*** sim iPhone 13 to 17 (Qualcomm baseband), this is the chinese version iPhone
+    - If you have golbal version iphone (physical sim + esim) it requiers to convert from **physical sim + esim** to **dual physical sim** by changing the sim slot reader with a china version sim slot reader and it works (this requires buying an dual sim sim slot reader and opening the phone up , so its not for everyone) [video here](https://www.youtube.com/watch?v=JXBMpGrUZL8), some iphone models do require board level soldering like in [this video](https://www.youtube.com/watch?v=PIwnEh592zY&t=166s)
+    - It works the best out of all of them , its plug and play , auto loading ipcc , almost 100% unlocked experience 
+    - You need the newest version of R-SIM like R-Sim MINI 3, R-SIM VSOP2 , R-SIM 19 Pro (you need this one if you use two physical sims)
+    - [Video instruction](https://www.youtube.com/shorts/5hwT5uGHqmc), quite simple
+    - On the chinese markets there are some special **dual physical** sim card readers integrated with some sort of r-sim chip, this is the 100% unlocked experience, you change the sim slot, plug in your sim card and it just works (without an r-sim chip over your sim card because the special **dual physical** sim card reader has it integrated)
 2. **eSim(QPE) Mode**：
      - Works with iPhone 12-16 (physical sim + esim) (Qualcomm baseband)
      - You need R-SIM CLUB2 or newer (like R-Sim MINI 3, R-SIM VSOP2 ) and to buy a R-SIM Ecode (its around 10 euro)
      - Instruction [video here](https://www.youtube.com/watch?v=Rd3qJ0Q6etE) and [written here](https://www.rsim5.com/instructionview.php?id=86)
-     - Requiers loading ipcc [video here](https://www.youtube.com/watch?v=n_sk35tVXDQ) , ipcc loading doesnt work on my iPhone 13 ios 26.3 and as a result i cant send sms mesages (it might work for you tho)
-     - Advantage: Very stable unlock from my experience , never lost signal and rarely got the activating iphone message, only after restart for a few seconds which is ok
-     - Disadvantage: For me sms mesages dont work but that doesnt mean it wont work for you
-     - 
+     - Requiers loading ipcc [video here](https://www.youtube.com/watch?v=n_sk35tVXDQ) , ipcc loading doesnt work for me (it might work for you tho)
+     - Advantage: Very stable unlock from my experience , never lost signal and almost never got the activating iphone message, not even after restart
+     - Disadvantage: you need to buy a R-SIM Ecode , and im not sure if you can reuse that e-sim if u delete it, or if you need to buy another one.
+
 3. **QPE Mode/For Qualcom** :
-     - Works with iPhone 12-16 (physical sim + esim) (Qualcomm baseband)
+     - Works with iPhone 12-17 (physical sim + esim) (Qualcomm baseband)
      - Instructions: Select unlock mode For Qualcom ; Select input imsi ; Write your carrier codes and hit send ; write GID1: (if you dont have one just hit send) ; write GID2:  (if you dont have one just hit send) ; Select accept and wait for signal to work
-     - Requiers loading ipcc [video here](https://www.youtube.com/watch?v=n_sk35tVXDQ) , ipcc loading doesnt work on my iPhone 13 ios 26.3 and as a result i cant send sms mesages (it might work for you tho)
+     - Requiers loading ipcc [video here](https://www.youtube.com/watch?v=n_sk35tVXDQ) ,ipcc loading doesnt work for me (it might work for you tho)
      - Advantage: stable unlock from my experience
-     - Disadvantage: i got the activating iphone message more often then with **eSim(QPE) Mode** (eSim(QPE) Mode is better), for me sms mesages dont work but that doesnt mean it wont work for you
+     - Disadvantage: i got the activating iphone message after restart and have to wait a bit till the r-sim kicks in (eSim(QPE) Mode is better)
 4. **INTEL Mode(XR-11Prm)** :
      - Works with iPhone XR-11Prm (Intel baseband)
      - Instructions: Select unlock mode for Intel Mode(XR-11Prm) ; Select input imsi ; Write your carrier codes and hit send ; write GID1: (if you dont have one just hit send) send; write GID2:  (if you dont have one just hit send) send ; Select accept and wait for signal to work
-     - Requiers loading ipcc [video here](https://www.youtube.com/watch?v=n_sk35tVXDQ) , ipcc loading worked perfectly on my iPhone SE 2020 ios 26.1
-     - Advantage: very stable unlock from my experience, sms worked perfectly , no activating iphone message, maybe only after restart
-     - Disadvantage: from my experience on my iPhone SE 2020 ios 26.1 i had 0 problems, so no Disadvantages , again this might not be the case for you
+     - Requiers loading ipcc [video here](https://www.youtube.com/watch?v=n_sk35tVXDQ) , ipcc loading worked perfectly on my iPhone SE 2020 ios 26
+     - Advantage: very stable unlock from my experience, sms worked perfectly
+     - Disadvantage: activating iphone message after restart and have to wait a bit till the r-sim kicks in
 5. **INTEL Mode(7-X)** :
      -  Works with iPhone 7-X (Intel baseband)
      -  Instructions: Select unlock mode for Intel Mode(7-X) ; Select input imsi ; Write your carrier codes and hit send ; write GID1: (if you dont have one just hit send) send; write GID2:  (if you dont have one just hit send) send ; Select accept and wait for signal to work
@@ -124,9 +126,15 @@ If you have r-sim without adhesive, check sim orientation, if the sim golden pad
      - From my knowledge this mode was patched by apple, im not 100% but from all the iccid codes i tried out ,none of them worked
      - Instructions: Select unlock mode ICCID PERFECT MODE ; Write your ICCID ( u used to find these on the internet ) ; Select accept and wait for signal to work
      - I dont have much experience for this unlock method but from all i tired it didnt work
-8. **Traditional Mode/TMSI Mode** :
+7. **Traditional Mode/TMSI Mode** :
      - I havent tired it out but from what i read its very unstable unlock ,  again this might not be the case for you
      - Instructions: Select unlock TMSI Mode/Traditional Mode 2G/3G GSM TMSI 6S/6SP  Select input imsi ; Write your carrier codes and hit send ; write GID1: (if you dont have one just hit send) send; write GID2:  (if you dont have one just hit send) send ; Select accept and wait for signal to work
-9. **What is IPCC**
-     - Ipcc is not an unlock method, it just makes your unlock method better, it reads your sim card settings to make the unlock more stable and better
-10. 
+8. **What is IPCC**
+     - Ipcc is not an unlock method, it reads your sim card carrier settings and applies them to make the unlock more stable and better (like activating 5g network or other carrier specific settings)
+9. 
+
+### Problems
+
+1. loading ipcc not working on some devices or ios verion (or it might be specific to me), this mean no 5G or other carrier specific settings
+2. can receive sms but cant send, on some devices or ios verion (or it might be a carrier specific bug)
+3. missing calls or not calling, i had most of this problems with **INTEL Mode(7-X)** and a little bit with **INTEL Mode(XR-11Prm)**, so yeah the newer Qualcomm baseband iphones are more stable
