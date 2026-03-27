@@ -130,11 +130,14 @@ If you have r-sim without adhesive, check sim orientation, if the sim golden pad
      - I havent tired it out but from what i read its very unstable unlock ,  again this might not be the case for you
      - Instructions: Select unlock TMSI Mode/Traditional Mode 2G/3G GSM TMSI 6S/6SP  Select input imsi ; Write your carrier codes and hit send ; write GID1: (if you dont have one just hit send) send; write GID2:  (if you dont have one just hit send) send ; Select accept and wait for signal to work
 8. **What is IPCC**
-     - Ipcc is not an unlock method, it reads your sim card carrier settings and applies them to make the unlock more stable and better (like activating 5g network or other carrier specific settings)
+     - Ipcc is not an unlock method, it reads your sim card carrier settings and applies them to make the unlock more stable and better (like activating mobile data, 5g network or other carrier specific settings)
 9. 
 
 ### Problems
 
-1. loading ipcc not working on some devices or ios verion (or it might be specific to me), this mean no 5G or other carrier specific settings
-2. can receive sms but cant send, on some devices or ios verion (or it might be a carrier specific bug)
-3. missing calls or not calling, i had most of this problems with **INTEL Mode(7-X)** and a little bit with **INTEL Mode(XR-11Prm)**, so yeah the newer Qualcomm baseband iphones are more stable
+1. Loading ipcc not working on some devices or ios verion (or it might be specific to me), this could mean no mobile data , 5G or other carrier specific settings
+2. Can receive sms but cant send, you need to update your sms center number:
+   - search on google your carrier sms center number , its gonno look like a normal number (example +40722006000), if you dont find it contact your carrier and they should help you
+   - in Setting/Mobile Service/SIM Apllications (r-sim settings) click SMS Center Service Address Setting, enter your carrier sms center number without + (for example "40722006000", 40 is for romania)
+   - if you dont have SIM Apllications or SMS Center Service Address Setting, dial in Phone " ** 5005 * 7672 * SmsCenterNumber * " or " ** 5005 * 7672 * SmsCenterNumber # " (for example " ** 5005 * 7672 * 40722006000 * " or " ** 5005 * 7672 * +40722006000 * ")(try without + first , if it doesnt work try with + )
+3. Missing calls or not calling, i had most of this problems with **INTEL Mode(7-X)** and a little bit with **INTEL Mode(XR-11Prm)**, so yeah the newer Qualcomm baseband iphones are more stable
